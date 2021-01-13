@@ -23,6 +23,7 @@ public class Console extends ElfUtil {
 	// display login screen
 	public void dialogLoginScreen() {
 
+		System.out.println("testing around");
 		System.out.println("##################################################################");
 		System.out.println("##          Welcome to the Login-Screen of Santa's App!         ##");
 		System.out.println("##################################################################");
